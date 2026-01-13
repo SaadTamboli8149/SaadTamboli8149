@@ -58,7 +58,7 @@ Currently, I am focusing on improving my logic-building skills and understanding
 
 ## 📫 Connect With Me
 
-* GitHub: *Add your GitHub profile link here*
+* GitHub: https://github.com/SaadTamboli8149*
 * LinkedIn: *Add your LinkedIn profile link here*
 
 ---
