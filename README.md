@@ -54,15 +54,7 @@ Currently, I am focusing on improving my logic-building skills and understanding
 
 ---
 
-## 🧑‍💻 Projects (Coming Soon)
 
-* C / C++ Practice Programs
-* Java Mini Projects
-* Web Development Practice Projects
-
-*(Projects will be added as I learn and build)*
-
----
 
 ## 📫 Connect With Me
 
